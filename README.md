@@ -33,5 +33,5 @@ run oms_dataset.sql
 ```
 3. Create project in Netbean (set port 8084)
 4. Run platform in browser
-* http://localhost:8084/ourmoviesimilariy
-* Try online version: http://recsys.cau.ac.kr:8084/ourmoviesimilariy
+* http://localhost:8084/ourmoviesimilarity
+* Try online version: http://recsys.cau.ac.kr:8084/ourmoviesimilarity
