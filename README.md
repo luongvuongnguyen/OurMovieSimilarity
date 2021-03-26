@@ -4,7 +4,7 @@ OurMovieSimilarity (OMS) is the crowdsourcing platform for collecting the cognit
 ## Introduction
 The OMS was built based on Java Web Application and Model-View-Controller model combine with the MySQL server. OMS is run by KEL (Knowledge Engineering Labotary) at Chung-Ang University. By using OMS, you will help us develop new experimental tools and interfaces for data exploration. OMS system is non-commercial. 
 
-## Publication related to OMS dataset
+## Publications related to OMS dataset
 * Luong Vuong Nguyen, O-Joun Lee, Hoang Long Nguyen, Sojung An, Jason J. Jung, and Yue-Shan Chang. Crowdsourcing System for Measuring Cognitive Similarity in Recommendation System. In Proceeding of the ISSAT International Conference on Data Science in Business, Finance, and Industry (DSBFI 2019), pp. 109-113, Danang, Vietnam; July 03-05, 2019. https://www.issatconferences.org/Abstracts/dsbfi/Content_dsbfi/content_dsbfi_19/109.html
 
 * Luong Vuong Nguyen and Jason J. Jung.rowdsourcing Platform for Collecting Cognitive Feedbacks from Users: A Case Study on Movie Recommender System. In Springer Series in Reliability Engineering Book Series, Springer. https://doi.org/10.1007/978-3-030-43412-0_9
